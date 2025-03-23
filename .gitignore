@@ -1,0 +1,6 @@
+*.wav
+*.mp3
+test.py
+**/__pycache__/
+llm/
+recog_models/
